@@ -5,21 +5,21 @@
         "nombre": "Laptop Gamer",
         "stock": 15,
         "precio": "$3500",
-        "imagen": "https://example.com/laptop-gamer.jpg"
+        "imagen": "https://m.media-amazon.com/images/I/71Zcl+FFsSL._AC_SL1500_.jpg"
       },
       {
         "codigo": "P002",
         "nombre": "Mouse Inalámbrico",
         "stock": 30,
         "precio": "$25",
-        "imagen": "https://example.com/mouse-inalambrico.jpg"
+        "imagen": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJ5Cj98n_kI27KCUSISDBGc5kcys1vkAwGsK9KXb1qdstu5dhSrdx_nNYdfWpKcoypeV3BPnSjfXKmJIDRALl1_xJ9Noc6chHa4477Ud3x5ynOUy2zSntR9kaqtVW3sA&usqp=CAc    "
       },
       {
         "codigo": "P003",
         "nombre": "Teclado Mecánico RGB",
         "stock": 20,
         "precio": "$80",
-        "imagen": "https://example.com/teclado-rgb.jpg"
+        "imagen": "https://m.media-amazon.com/images/I/71iUUN3rSZL._AC_SL1500_.jpg"
       },
       {
         "codigo": "P004",
